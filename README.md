@@ -11,6 +11,13 @@
 ## Introduction
 This repo contains the code for a static and an interactive version of a bubble plot in R. The dataset used (nations.csv) is provided in the repo too.
 
+## Pre-requisites
+You need toi have R Studio installed in your machine to run this code. If you have not installed the program, find installation instructions [here](http://web.cs.ucla.edu/~gulzar/rstudio/index.html).
+
+## Installation
+1. Fork this repo to your computer
+2. Open the files 
+
 ## Contributions
 Contributions are welcome using pull requests. To contribute, follow these steps:
 1. Fork this repository.
