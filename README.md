@@ -21,8 +21,8 @@ This repo contains the code for a static and an interactive version of a bubble 
 
 ## Usage
 1. Open R Studio
-2. To view the static visualization, open the file Static Bubble Plot.r in R Studio and run it
-3. To view the interactive visualization, open the file Interactive Bubble Plot.r in R Studio and run it
+2. To view the static visualization, open the file Static Bubble Plot.R in R Studio and run it
+3. To view the interactive visualization, open the file Interactive Bubble Plot.R in R Studio and run it
 
 ## Contributions
 Contributions are welcome using pull requests. To contribute, follow these steps:
