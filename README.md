@@ -2,6 +2,7 @@
 
 ## Table of Contents
 * [Introduction](#Introduction)
+* [Pre-requisites](#Pre-requisistes)
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [Contributions](#Contributions)
